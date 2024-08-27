@@ -1,1 +1,0 @@
-INSERT INTO member (userId, username, password, email, role) VALUES ('kimchansooo', '김찬수', '1234qwer', 'kimchan1221@naver.com', '1')
